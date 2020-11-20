@@ -1,7 +1,7 @@
 # yolov3_termux
 ### Darknet Yolo v3 in Termux (installer) ###
 
-Установщик нейроночки, которая умеет распознавать объекты по фото.
+Установщик нейронной сети Darknet Yolo v3, которая умеет распознавать объекты на фото и видео.
 
 Нейроночка: Darknet Yolo v3
 Создано для: Termux
@@ -19,4 +19,5 @@ wget https://bit.ly/3pJv1cH -O neyronochka.sh && bash ./neyronochka.sh
 
 Если всё прошло без ошибок - радуемся :)
 
-Подробней на канале https://youtube.com/TheUnderMind
+
+### Подробней на канале: https://youtube.com/TheUnderMind
